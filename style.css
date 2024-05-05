@@ -1,0 +1,51 @@
+body {
+    background-color: #f3f5fc;
+    font-family: "Abel", sans-serif;
+}
+
+.title {
+    text-align: center;
+    FONT-SIZE: 30px;
+}
+
+
+.zona_de_juego {
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor_zona_de_juego {
+    margin: 30px;
+}
+
+
+.mensaje_juego {
+    margin-top: 0px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.title_inicio {
+    text-align: center;
+    font-size: 35px;
+}
+
+.title_mensaje {
+    margin-top: 150px;
+    font-size: 35px;
+}
+
+
+.container_Icons {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 185px;
+    margin: 30px;
+    cursor: pointer;
+
+}
